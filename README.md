@@ -18,13 +18,6 @@ Learning things like developing, designing, creating projects is a habit to me. 
 
 Currently, I'm working as a part-time developer doing local projects such as making eCommerce apps websites and also I'm working on ML related projects for journal paper publications. Thank you. 
 
-### Recent Updates & Hobbies:
-
-- I am Currently working on a website developing as a freelancer.
-- This is my last semester of graduation.
-- Hobbies: Travelling, Book Collection, Nature Photography 
-- Yes! A glass of Coffee and a bottle of Code gives me concentration on coding
-- techFreak, animeLover, moviebuzz, loveToLearnNewStuffs!
 
 ### My Work Stacks:
 
@@ -60,5 +53,14 @@ Currently, I'm working as a part-time developer doing local projects such as mak
      <b>Certified Courses @ Udemy:</b> React Native, Illustrator, Pytorch, MERN Stack.
    </li>
 </ul>
+
+### Recent Updates & Hobbies:
+
+- I am Currently working on a website developing as a freelancer.
+- This is my last semester of graduation.
+- Hobbies: Travelling, Book Collection, Nature Photography 
+- Yes! A glass of Coffee and a bottle of Code gives me concentration on coding
+- techFreak, animeLover, moviebuzz, loveToLearnNewStuffs!
+
 
 #### "Truth can only be found in one place: the code." ― Robert C. Martin aka Uncle Bob.
