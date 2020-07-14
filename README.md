@@ -38,10 +38,10 @@ Currently, I'm working as a part-time developer doing local projects such as mak
 
 <ul>
   <li>
-     <b>2nd runners up: </b> HackerNoon Hack_NSU 2019 @ North South University
+     <b>2nd runners up @ </b> Hackathon - Hack_NSU 2019 @ North South University
    </li>
   <li>
-     <b>Placed among Top 15th position: </b> NASA Space Apps Challenge organized by BASIS, 2019
+     <b>Placed among Top 15th position @ </b> NASA Space Apps Challenge organized by BASIS, 2019
    </li> 
    <li>
      <b>Certified Courses @ Coursera: </b> Deep_Learning.ai, Kubernates Engine, ML, AWS
