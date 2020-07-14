@@ -59,7 +59,7 @@ Currently, I'm working as a part-time developer doing local projects such as mak
 - I am Currently working on a website developing as a freelancer.
 - This is my last semester of graduation.
 - Hobbies: Travelling, Book Collection, Nature Photography 
-- Yes! A glass of Coffee and a bottle of Code gives me concentration on coding
+- Yes! A glass of Coffee and a bottle of Coke gives me concentration on coding
 - techFreak, animeLover, moviebuzz, loveToLearnNewStuffs!
 
 
