@@ -27,7 +27,7 @@ Currently, I'm working as a part-time developer doing local projects such as mak
    "backend": ["Laravel","Django", "Node.js"],
    "frontend": ["Bootstrap", "css"],
    "database": ["mySQL", "Firebase"],
-   "ai framework":["Keras","PyTorch","Scikit-learn"],
+   "ai_framework": ["Keras","PyTorch","Scikit-learn"],
    "devOps": ["AWS", "Heroku", "Docker", "Kubernates"],
    "graphics": ["Adobe Illustrator", "Premier Pro"],
    "CMS": ["Wordpress", "Magento", "Shopify"],
@@ -60,7 +60,7 @@ Currently, I'm working as a part-time developer doing local projects such as mak
 - This is my last semester of graduation.
 - Hobbies: Travelling, Book Collection, Nature Photography 
 - Yes! A glass of Coffee and a bottle of Coke gives me concentration on coding
-- techFreak, animeLover, moviebuzz, loveToLearnNewStuffs!
+- techFreak, animeLover, movieBuzz, loveToLearnNewStuffs!
 
 
 #### "Truth can only be found in one place: the code." ― Robert C. Martin aka Uncle Bob.
