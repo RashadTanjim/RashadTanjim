@@ -37,7 +37,7 @@ Currently, I'm working as a part-time developer doing local projects such as mak
 ### Achievement & Certification:
 
 <ul>  <li>
-     <b>Published 2 Conference Paper on Machine Learning @ </b> IEEE Intelligence System and AMC ICCCM
+     <b>Published 2 Conference Paper on Machine Learning @ </b> IEEE Intelligence System and ACM ICCCM
    </li>
   <li>
      <b>2nd Runners up @ </b> Hackathon - Hack_NSU 2019 @ North South University
