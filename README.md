@@ -23,7 +23,7 @@ Currently, I'm working as a part-time developer doing local projects such as mak
 
 ```json
 {
-   "languages": ["Python", "Java", "JavaScript", "PHP"],
+   "languages": ["Python", "Java", "C++", "PHP"],
    "backend": ["Laravel","Django", "Node.js"],
    "frontend": ["Bootstrap", "css"],
    "database": ["mySQL", "Firebase"],
