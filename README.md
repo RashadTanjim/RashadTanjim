@@ -12,11 +12,11 @@
 > Full-stack software developer, Freelancer <br />
 > Interest fields: Software Engineering, Cloud Computing, Artificial Intelligence
 
-I am a Full-Stack developer having 2 years of experience in this field of developing & designing apps and websites. Currently, I'm a final year undergrad student doing B.S. in Computer Science & Engineering at North South University (NSU). My major studying field is on Machine Learning & Data Science and the minor is on Computer Networks & Software Engineering. 
+Howdy, This is Rashad Tanjim. I am a Full-Stack developer having 2 years of experience in this field of developing & designing apps and websites. Recently, I have completed my graduation on B.S. in Computer Science & Engineering from North South University (NSU). My major studying field is on Machine Learning & Data Science and the minor is on Computer Networks & Software Engineering. 
 
-Learning things like developing, designing, creating projects is a habit to me. Every semester of my studies, I'm learning new Computer Science topics & developing related stuffs which is helping me to enrich my knowledge in this area. 
+Learning things like developing, designing, creating projects is a habit to me. Every projects of my work, I'm learning new Computer Science topics & developing related stuff which is helping me to enrich my knowledge in this area. 
 
-Currently, I'm working as a part-time developer doing local projects such as making eCommerce apps websites and also I'm working on ML related projects for journal paper publications. Thank you. 
+Currently, I'm working as a part-time developer doing local projects such as making eCommerce apps websites. Moreover, I'm working on ML related projects and I have already published 2 Conference papers and 1 Journal paper. Thank you.
 
 
 ### My Work Stacks:
