@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=222244&labelColor=000000&logo=facebook&logoColor=ffffff)](https://www.facebook.com/arnobtanjim)
 [![Blog](https://img.shields.io/badge/%20-Blog-black?color=222244&labelColor=000000&logo=blogger&logoColor=ffffff)](https://www.towardsharing.com)
 
-> Undergrad student @ North South University, Dhaka <br />
+> Graduated from North South University, Dhaka, Bangladesh <br />
 > Full-stack software developer, Freelancer <br />
 > Interest fields: Software Engineering, Cloud Computing, Artificial Intelligence
 
