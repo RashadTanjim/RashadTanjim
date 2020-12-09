@@ -8,15 +8,16 @@
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=222244&labelColor=000000&logo=facebook&logoColor=ffffff)](https://www.facebook.com/arnobtanjim)
 [![Blog](https://img.shields.io/badge/%20-Blog-black?color=222244&labelColor=000000&logo=blogger&logoColor=ffffff)](https://www.towardsharing.com)
 
+> Jr. Software Engineer, Programming Hero <br />
 > Graduated from North South University, Dhaka, Bangladesh <br />
-> Full-stack software developer, Freelancer <br />
+> Full-stack Developer, Blogger, Freelancer <br />
 > Interest fields: Software Engineering, Cloud Computing, Artificial Intelligence
 
-Howdy, This is Rashad Tanjim. I am a Full-Stack developer having 2 years of experience in this field of developing & designing apps and websites. Recently, I have completed my graduation on B.S. in Computer Science & Engineering from North South University (NSU). My major studying field is on Machine Learning & Data Science and the minor is on Computer Networks & Software Engineering. 
+Howdy, This is Rashad Tanjim. I am a Full-Stack developer having 2 years of experience in this field of developing & designing apps and websites. I have completed my graduation on B.S. in Computer Science & Engineering from North South University (NSU). My major studying field is on Machine Learning & Data Science and the minor is on Computer Networks & Software Engineering. 
 
-Learning things like developing, designing, creating projects is a habit to me. Every projects of my work, I'm learning new Computer Science topics & developing related stuff which is helping me to enrich my knowledge in this area. 
+Learning things like developing, designing, creating projects is a habit to me. Every projects of my work, I'm try to learn new as well as updated Computer Science topics & developing related stuff which is helping me to enrich my knowledge in this area. 
 
-Currently, I'm working as a part-time developer doing local projects such as making eCommerce apps websites. Moreover, I'm working on ML related projects and I have already published 2 Conference papers and 1 Journal paper. Thank you.
+Currently, I'm working as a a Jr. Android Developer at Programming Hero whare I'm contributing to our Android App. Moreover, I'm researching on ML related projects and I have already published 2 Conference papers and 1 Journal paper. Thank you.
 
 
 ### My Work Stacks:
