@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/animation.gif?raw=true" width="280" height="260" />
 
-# Howdy! This is Tanjim, Welcome to my profile!
+## Howdy! This is Tanjim, Welcome to my profile!
 ### Visit my Portfolio: https://rashadtanjim.info
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rashad-tanjim/)
