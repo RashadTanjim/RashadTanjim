@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/animation.gif?raw=true" width="280" height="260" />
+<img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/animation.gif?raw=true" width="270" height="250" />
 
 ## Howdy! This is Tanjim, Welcome to my profile!
 ### Visit my Portfolio: https://rashadtanjim.info
