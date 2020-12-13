@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/lottie.json?raw=true" width="300" height="300" />
+<img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/animation.gif?raw=true" width="300" height="300" />
 
 # Howdy! This is Tanjim, Welcome to my profile!
 ### Visit my Portfolio: https://rashadtanjim.info
