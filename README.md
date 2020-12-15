@@ -17,7 +17,7 @@
 
 Howdy, This is Rashad Tanjim. I am a Full-Stack developer having 2 years of experience in this field of developing & designing apps and websites. I have completed my graduation on B.S. in Computer Science & Engineering from North South University (NSU). My major studying field is on Machine Learning & Data Science and the minor is on Computer Networks & Software Engineering. 
 
-Learning things like developing, designing, creating projects is a habit to me. Every projects of my work, I'm try to learn new as well as updated Computer Science topics & developing related stuff which is helping me to enrich my knowledge in this area. 
+Learning things like developing, designing, creating projects is a habit to me. Every projects of my work, I'm trying to learn new Computer Science topics & developing related stuff which is helping me to enrich my knowledge in this area. 
 
 Currently, I'm working as a a Jr. Android Developer at Programming Hero whare I'm contributing to our Android App. Moreover, I'm researching on ML related projects and I have already published 2 Conference papers and 1 Journal paper. Thank you.
 
