@@ -19,10 +19,10 @@ Howdy, This is Rashad Tanjim. I am a Full-Stack developer having 2 years of expe
 
 Learning things like developing, designing, creating projects is a habit to me. Every projects of my work, I'm trying to learn new Computer Science topics & developing related stuff which is helping me to enrich my knowledge in this area. 
 
-Currently, I'm working as a Jr. Android Developer at Programming Hero whare I'm contributing to our Android App. Moreover, I'm researching on ML related projects and I have already published 2 Conference papers and 1 Journal paper. Thank you.
+Currently, I'm working as a Jr. Android Developer at Programming Hero where I'm trying to contribute on Android App. Moreover, I'm researching on ML related projects and I have already published 2 Conference papers and 1 Journal paper. Thank you.
 
 
-### My Work Stacks:
+### Tech Stacks, I explored:
 
 ```json
 {
@@ -52,7 +52,7 @@ Currently, I'm working as a Jr. Android Developer at Programming Hero whare I'm 
      <b>Certified Courses @ Coursera: </b> Deep_Learning.ai, Kubernates Engine, ML, AWS
    </li>
    <li>
-     <b>Certified Courses @ Edx: </b> Product Management, Intro to Japanese Language, Software QA Analysis   
+     <b>Certified Courses @ Edx: </b> Intro to Japanese Language, Software QA Analysis   
    </li>
    <li>
      <b>Certified Courses @ Udemy:</b> React Native, Illustrator, Pytorch, MERN Stack.
@@ -60,9 +60,7 @@ Currently, I'm working as a Jr. Android Developer at Programming Hero whare I'm 
 </ul>
 
 ### Recent Updates & Hobbies:
-
-- I am Currently working on a website developing as a freelancer.
-- This is my last semester of graduation.
+- I'm researching on Deep learning.
 - Hobbies: Travelling, Book Collection, Nature Photography 
 - Yes! A glass of Coffee and a bottle of Coke gives me concentration on coding
 - techFreak, animeLover, movieBuzz, loveToLearnNewStuffs!
