@@ -27,8 +27,8 @@ Currently, I'm working as a Jr. Android Developer at Programming Hero where I'm 
 ```json
 {
    "languages": ["Python", "Java", "C++", "PHP"],
-   "backend": ["Laravel","Django", "Node.js"],
-   "frontend": ["Bootstrap", "css"],
+   "backend": ["Laravel","Django"],
+   "frontend": ["Bootstrap", "CSS"],
    "database": ["mySQL", "Firebase"],
    "ai_framework": ["Keras","PyTorch","Scikit-learn"],
    "devOps": ["AWS", "Heroku", "Docker", "Kubernates"],
