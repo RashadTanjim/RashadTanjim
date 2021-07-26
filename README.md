@@ -38,8 +38,11 @@ Currently, I'm working as a Jr. Software Engineer at Programming Hero where I'm 
 ```
 ### Achievement & Certification:
 
-<ul>  <li>
-     <b>Published 2 Conference Papers & 1 Journal Paper on Machine Learning @ </b> IEEE Intelligence System, ACM ICCCM, Inderscience Publishers (Accordingly)
+<ul><li>
+     <b>Published 1 Journal Paper on Computer Vision @ </b> Inderscience Publishers
+   </li>  
+   <li>
+     <b>Published 2 Conference Papers on Machine Learning @ </b> IEEE Intelligence System & ACM ICCCM
    </li>
   <li>
      <b>2nd Runners up @ </b> Hackathon - Hack_NSU 2019 @ North South University
