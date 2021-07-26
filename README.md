@@ -26,21 +26,20 @@ Currently, I'm working as a Jr. Software Engineer at Programming Hero where I'm 
 
 ```json
 {
-   "languages": ["Python", "Java", "C++", "PHP"],
-   "backend": ["Laravel","Django"],
-   "frontend": ["Bootstrap", "CSS"],
-   "database": ["mySQL", "Firebase"],
+   "languages": ["Kotlin", "Python", "Java", "C++"],
+   "backend": ["Spring","Django"],
+   "frontend": ["Bootstrap", "Material UI"],
+   "database": ["mySQL", "Firebase", "MongoDb"],
    "ai_framework": ["Keras","PyTorch","Scikit-learn"],
    "devOps": ["AWS", "Heroku", "Docker", "Kubernates"],
-   "graphics": ["Adobe Illustrator", "Premier Pro"],
    "CMS": ["Wordpress", "Magento", "Shopify"],
-   "freelancing": ["Apps", "Website", "Graphics Stuffs"] 
+   "freelancing": ["Apps", "Websites", "Graphics Stuffs"] 
 }
 ```
 ### Achievement & Certification:
 
 <ul>  <li>
-     <b>Published 2 Conference Paper on Machine Learning @ </b> IEEE Intelligence System and ACM ICCCM
+     <b>Published 2 Conference Papers & 1 Journal Paper on Machine Learning @ </b> IEEE Intelligence System, ACM ICCCM, Inderscience Publishers (Accordingly)
    </li>
   <li>
      <b>2nd Runners up @ </b> Hackathon - Hack_NSU 2019 @ North South University
