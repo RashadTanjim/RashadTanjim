@@ -15,7 +15,7 @@
 > Full-stack Developer, Blogger, Freelancer <br />
 > Interest fields: Software Engineering, Cloud Computing, Artificial Intelligence
 
-Howdy, This is Rashad Tanjim. I am a Full-Stack developer having 2 years of experience in this field of developing & designing apps and websites. I have completed my graduation on B.S. in Computer Science & Engineering from North South University (NSU). My major studying field is on Machine Learning & Data Science and the minor is on Computer Networks & Software Engineering. 
+Howdy, This is Rashad Tanjim. I am a Full-Stack developer having 2 years of experience in this field of developing & designing apps and websites. I have completed my graduation on B.S. in Computer Science & Engineering from North South University (NSU). My major studying field was on Machine Learning & Data Science and the minor was on Computer Networks & Software Engineering. 
 
 Learning things like developing, designing, creating projects is a habit to me. Every projects of my work, I'm trying to learn new Computer Science topics & developing related stuff which is helping me to enrich my knowledge in this area. 
 
