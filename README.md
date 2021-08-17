@@ -11,7 +11,7 @@
 [![Blog](https://img.shields.io/badge/%20-Blog-black?color=222244&labelColor=000000&logo=blogger&logoColor=ffffff)](https://www.towardsharing.com)
 
 > Jr. Software Engineer, Programming Hero <br />
-> Graduated from North South University, Dhaka, Bangladesh <br />
+> Graduate Teaching Assistant, North South University, Dhaka, Bangladesh <br />
 > Full-stack Developer, Blogger, Freelancer <br />
 > Interest fields: Software Engineering, Cloud Computing, Artificial Intelligence
 
@@ -35,14 +35,24 @@ Currently, I'm working as a Jr. Software Engineer at Programming Hero where I'm 
    "CMS": ["Wordpress", "Magento", "Shopify"]
 }
 ```
-### Achievement & Certification: ResearchGate: https://www.researchgate.net/profile/Md-Tanjim
 
+### Reseach and Publications:
 <ul><li>
      <b>Published 1 Journal Paper on Computer Vision @ </b> Inderscience Publishers
    </li>  
    <li>
      <b>Published 2 Conference Papers on Machine Learning @ </b> IEEE Intelligence System & ACM ICCCM
    </li>
+   <li>
+     <b> ResearchGate: https://www.researchgate.net/profile/Md-Tanjim
+   </li>  
+    <li>
+     <b> Google Scholar: https://scholar.google.com/citations?user=MF_szpwAAAAJ&hl
+   </li>
+   </ul>
+### Achievement & Certification: ResearchGate: https://www.researchgate.net/profile/Md-Tanjim
+
+<ul>
   <li>
      <b>2nd Runners up @ </b> Hackathon - Hack_NSU 2019 @ North South University
    </li>
