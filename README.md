@@ -32,11 +32,10 @@ Currently, I'm working as a Jr. Software Engineer at Programming Hero where I'm 
    "database": ["mySQL", "Firebase", "MongoDb"],
    "ai_framework": ["Keras","PyTorch","Scikit-learn"],
    "devOps": ["AWS", "Heroku", "Docker", "Kubernates"],
-   "CMS": ["Wordpress", "Magento", "Shopify"],
-   "freelancing": ["Apps", "Websites", "Graphics Stuffs"] 
+   "CMS": ["Wordpress", "Magento", "Shopify"]
 }
 ```
-### Achievement & Certification:
+### Achievement & Certification: ResearchGate: https://www.researchgate.net/profile/Md-Tanjim
 
 <ul><li>
      <b>Published 1 Journal Paper on Computer Vision @ </b> Inderscience Publishers
