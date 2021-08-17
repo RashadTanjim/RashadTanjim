@@ -49,8 +49,8 @@ Currently, I'm working as a Jr. Software Engineer at Programming Hero where I'm 
      <b> Google Scholar: https://scholar.google.com/citations?user=MF_szpwAAAAJ&hl
    </li>
    </ul>
+   
 ### Achievement & Certification: ResearchGate: https://www.researchgate.net/profile/Md-Tanjim
-
 <ul>
   <li>
      <b>2nd Runners up @ </b> Hackathon - Hack_NSU 2019 @ North South University
