@@ -12,7 +12,7 @@
 
 > Jr. Software Engineer, Programming Hero <br />
 > Graduate Teaching Assistant, North South University, Dhaka, Bangladesh <br />
-> Interest fields: Artificial Intelligence, Software Engineering, Cloud Computing.
+> Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed System.
 
 Howdy, This is Rashad Tanjim. I am a Full-Stack developer having 2 years of experience in this field of developing & designing apps and websites. I have completed my graduation on B.S. in Computer Science & Engineering from North South University (NSU). My major studying field was on Machine Learning & Data Science and the minor was on Computer Networks & Software Engineering. 
 
