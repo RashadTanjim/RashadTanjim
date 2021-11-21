@@ -18,7 +18,7 @@ Howdy, This is Rashad Tanjim. I am a Software developer having 1.5 years of expe
 
 Learning things like developing, designing, creating projects is a habit to me. Every projects of my work, I'm trying to learn new Tech topics & developing related stuff which is helping me to enrich my knowledge in this area. 
 
-Currently, I'm working as a Jr. Software Engineer at Programming Hero where I'm trying to contribute on Android App development section mostly. Moreover, I'm researching on ML related projects and I have already published 2 Conference papers and 1 Journal paper. Thank you.
+Currently, I'm working as a Software Engineer at Programming Hero where I'm trying to contribute on Android App development section mostly. Moreover, I'm researching on ML related projects and I have already published 2 Conference papers and 1 Journal paper. Thank you.
 
 
 ### Tech Stacks, I explored:
