@@ -26,12 +26,13 @@ Currently, I'm working as a Software Engineer at Programming Hero where I'm tryi
 ```json
 {
    "languages": ["Kotlin", "Python", "Java", "JavaScript", "C++"],
+   "mobile_dev": ["Android Native"],
    "backend": ["Spring","Django"],
    "frontend": ["Bootstrap", "Material UI"],
    "database": ["mySQL", "Firebase", "MongoDb"],
    "ai_framework": ["Keras","PyTorch","Scikit-learn"],
    "devOps": ["AWS", "Heroku", "Docker", "Kubernates"],
-   "Mice": ["Redis", "JUnit", "CI-CD"]
+   "mice": ["Redis", "JUnit", "CI-CD"]
 }
 ```
 
