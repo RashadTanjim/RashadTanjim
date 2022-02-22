@@ -31,7 +31,7 @@ Currently, I'm working as a Software Engineer at Programming Hero where I'm tryi
    "frontend": ["Bootstrap", "Material UI"],
    "database": ["mySQL", "Firebase", "MongoDb"],
    "ai_framework": ["Keras","PyTorch","Scikit-learn"],
-   "devOps": ["AWS", "Heroku", "Docker", "Kubernates"],
+   "devops": ["AWS", "Heroku", "Docker", "Kubernates"],
    "mice": ["Redis", "JUnit", "CI-CD"]
 }
 ```
