@@ -10,24 +10,25 @@
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=222244&labelColor=000000&logo=facebook&logoColor=ffffff)](https://www.facebook.com/arnobtanjim)
 [![Blog](https://img.shields.io/badge/%20-Blog-black?color=222244&labelColor=000000&logo=blogger&logoColor=ffffff)](https://www.towardsharing.com)
 
-> Software Engineer, Programming Hero <br />
+> Software Engineer, Software Engineer, Core Platform Engineering, Product and Technology Division, bKash Ltd. <br />
+> Formar Software Engineer, Programming Hero <br />
 > Graduate Teaching Assistant, North South University, Dhaka, Bangladesh <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed System.
 
-Howdy, This is Rashad Tanjim. I am a Software developer having 1.5 years of experience in this field of developing & designing apps and websites. I have completed my Bachelor in Computer Science & Engineering from North South University (NSU). My major studying field was on Machine Learning & Data Science and the minor was on Computer Networks & Software Engineering. 
+Howdy, This is Rashad Tanjim. I am a Software engineer having 1.5 years of experience in this field of developing & designing apps and websites. I have completed my Bachelor in Computer Science & Engineering from North South University (NSU). My major studying field was on Machine Learning & Data Science and the minor was on Computer Networks & Software Engineering. 
 
 Learning things like developing, designing, creating projects is a habit to me. Every projects of my work, I'm trying to learn new Tech topics & developing related stuff which is helping me to enrich my knowledge in this area. 
 
-Currently, I'm working as a Software Engineer at Programming Hero where I'm trying to contribute on Android App development section mostly. Moreover, I'm researching on ML related projects and I have already published 2 Conference papers and 1 Journal paper. Thank you.
+Currently, I'm working as a Software Engineer at bKash Ltd. where I'm trying to contribute on Backend Technologies of Core Platform section mostly. Moreover, I'm researching on ML related projects and I have already published 2 Conference papers and 1 Journal paper. Thank you.
 
 
 ### Tech Stacks, I explored:
 
 ```json
 {
-   "languages": ["Kotlin", "Python", "Java", "JavaScript", "C++"],
+   "languages": ["JavaScript", "Kotlin", "Python", "Java", "C++"],
    "mobile_dev": ["Android Native"],
-   "backend": ["Spring","Django"],
+   "backend": ["NodeJS","Django"],
    "frontend": ["Bootstrap", "Material UI"],
    "database": ["mySQL", "Firebase", "MongoDb"],
    "ai_framework": ["Keras","PyTorch","Scikit-learn"],
