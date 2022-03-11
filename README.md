@@ -10,7 +10,7 @@
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=222244&labelColor=000000&logo=facebook&logoColor=ffffff)](https://www.facebook.com/arnobtanjim)
 [![Blog](https://img.shields.io/badge/%20-Blog-black?color=222244&labelColor=000000&logo=blogger&logoColor=ffffff)](https://www.towardsharing.com)
 
-> Software Engineer, Software Engineer, Core Platform Engineering, <br />Product and Technology Division, bKash Ltd. <br />
+> Software Engineer, Core Platform Engineering, Product and Technology Division, bKash Ltd. <br />
 > Formar Software Engineer, Programming Hero <br />
 > Graduate Teaching Assistant, North South University, Dhaka, Bangladesh <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed System.
