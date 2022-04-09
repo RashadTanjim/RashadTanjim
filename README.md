@@ -29,7 +29,7 @@ Currently, I'm working as a Software Engineer at bKash Ltd. where I'm trying to 
    "languages": ["JavaScript", "Kotlin", "Python", "Java", "C++"],
    "mobile_dev": ["Android Native"],
    "backend": ["NodeJS","Django"],
-   "frontend": ["Bootstrap", "Material UI"],
+   "frontend": ["Bootstrap", "Material UI", "Angular"],
    "database": ["mySQL", "Firebase", "MongoDb"],
    "ai_framework": ["Keras","PyTorch","Scikit-learn"],
    "devops": ["AWS", "Heroku", "Docker", "Kubernates"],
