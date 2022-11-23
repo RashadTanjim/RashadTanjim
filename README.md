@@ -34,7 +34,7 @@ Currently, I'm working as a Software Engineer at bKash Ltd. where I'm mostly try
    "database": ["mySQL", "Firebase", "MongoDB"],
    "ai_framework": ["Keras", "PyTorch", "Scikit-learn"],
    "devops": ["AWS", "Heroku", "Docker", "Kubernates", "CI-CD"],
-   "mice": ["Redis", RabitMQ, "Linux", "Postman", "Nginx"]
+   "mice": ["Redis", "RabitMQ", "Linux", "Postman", "Nginx"]
 }
 ```
 
