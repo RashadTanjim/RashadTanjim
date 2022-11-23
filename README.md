@@ -18,23 +18,23 @@
 
 Howdy, This is Rashad Tanjim. I am an engineer having 2 years of experience in the field of developing & designing apps and websites. I have completed my Bachelor in Computer Science & Engineering from North South University (NSU). My major studying field was Machine Learning & Data Science and my minor was in Computer Networks & Software Engineering.
 
-Learning things like developing, designing, and creating projects is a habit for me. For every project of my work, I'm trying to learn new Tech topics & developing related stuff which is helping me to enrich my knowledge in this area.
+Learning things like developing apps, architecting solutions, and creating projects on different stacks are a habit of mein. For each & every project of my work, I'm trying to learn new tech topics & developing related stuff which is helping me to enrich my knowledge in this area.
 
-Currently, I'm working as a Software Engineer at bKash Ltd. where I'm mostly trying to contribute to the Backend Technologies of Core Platform section. Moreover, I'm researching ML-related projects and I have already published 2 Conference papers and 1 Journal paper. Thank you.
+Currently, I'm working as a Software Engineer at bKash Ltd. where I'm mostly trying to contribute to the Backend Technologies of Core Platform Engineering section. Moreover, I'm researching on Mechine Learning related projects and already have published 2 Conference papers and 1 Journal paper. Thank you.
 
 
 ### Tech Stacks, I explored:
 
 ```json
 {
-   "languages": ["JavaScript", "Kotlin", "Python", "Java", "C++"],
+   "languages": ["JavaScript", "GoLang", "Java", "Python", "C++"],
    "mobile_dev": ["Android Native"],
-   "backend": ["NodeJS","Django"],
-   "frontend": ["Bootstrap", "Material UI", "Angular"],
-   "database": ["mySQL", "Firebase", "MongoDb"],
-   "ai_framework": ["Keras","PyTorch","Scikit-learn"],
-   "devops": ["AWS", "Heroku", "Docker", "Kubernates"],
-   "mice": ["Redis", "JUnit", "CI-CD"]
+   "backend": ["NodeJS", "Django"],
+   "frontend": ["Angular", "Material UI", "Bootstap"],
+   "database": ["mySQL", "Firebase", "MongoDB"],
+   "ai_framework": ["Keras", "PyTorch", "Scikit-learn"],
+   "devops": ["AWS", "Heroku", "Docker", "Kubernates", "CI-CD"],
+   "mice": ["Redis", RabitMQ, "Linux", "Postman", "Nginx"]
 }
 ```
 
