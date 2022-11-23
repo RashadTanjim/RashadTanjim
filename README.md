@@ -12,8 +12,8 @@
 [![Blog](https://img.shields.io/badge/%20-Blog-black?color=222244&labelColor=000000&logo=blogger&logoColor=ffffff)](https://www.towardsharing.com)
 
 > Software Engineer, Core Platform Engineering, Product and Technology Division, bKash Ltd. <br />
-> Formar Software Engineer, Programming Hero <br />
-> Formar Graduate Teaching Assistant, North South University, Dhaka, Bangladesh <br />
+> Formar Software Engineer, Programming Hero. <br />
+> Formar Graduate Teaching Assistant, North South University, Dhaka, Bangladesh. <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed System.
 
 Howdy, This is Rashad Tanjim. I am an engineer having 2 years of experience in the field of developing & designing apps and websites. I have completed my Bachelor in Computer Science & Engineering from North South University (NSU). My major studying field was Machine Learning & Data Science and my minor was in Computer Networks & Software Engineering.
