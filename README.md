@@ -15,11 +15,11 @@
 > Formar Graduate Teaching Assistant, North South University, Dhaka, Bangladesh. <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed System.
 
-Howdy, This is Rashad Tanjim. I am an engineer having 2 years of experience in the field of developing & designing apps and websites. I have completed my Bachelor in Computer Science & Engineering from North South University (NSU). My major studying field was Machine Learning & Data Science and my minor was in Computer Networks & Software Engineering.
+Howdy, This is Rashad Tanjim. I am an engineer having 3 years of experience in the field of developing & architecting apps and websites. I have completed my Bachelor in Computer Science & Engineering from North South University (NSU). My major studying field was Machine Learning & Data Science and minor was in Software Engineering & Computer Networks.
 
 Learning things like developing apps, architecting solutions, and creating projects on different stacks are a habit of mein. For each & every project of my work, I'm trying to learn new tech topics & developing related stuff which is helping me to enrich my knowledge in this area.
 
-Currently, I'm working as a Software Engineer at bKash Ltd. where I'm mostly trying to contribute to the Backend Technologies of Core Platform Engineering section. Moreover, I'm researching on Mechine Learning related projects and already have published 2 Conference papers and 1 Journal paper. Thank you.
+Currently, I'm working as a Software Engineer at bKash Ltd. where I'm mostly trying to contribute to the Backend Technologies of Core Platform Engineering section. Moreover, I'm researching on Mechine Learning related projects and already have published 3 Conference papers and 1 Journal paper. Thank you.
 
 
 ### Tech Stacks, I explored:
@@ -42,7 +42,7 @@ Currently, I'm working as a Software Engineer at bKash Ltd. where I'm mostly try
      <b>Published 1 Journal Paper on Computer Vision @ </b> Inderscience Publishers
    </li>  
    <li>
-     <b>Published 2 Conference Papers on Machine Learning @ </b> IEEE Intelligence System & ACM ICCCM
+     <b>Published 3 Conference Papers on Machine Learning @ </b> IEEE Intelligence System & ACM ICCCM
    </li>
    <li>
      <b> ResearchGate: https://www.researchgate.net/profile/Md-Tanjim
