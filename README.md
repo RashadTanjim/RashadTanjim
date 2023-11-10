@@ -33,7 +33,7 @@ Currently, I'm working as a Software Engineer at bKash Ltd. where I'm mostly try
    "database": ["MySQL", "Firebase", "MongoDB", "Oracle", "Cassandra"],
    "ai_framework": ["Keras", "PyTorch", "Scikit-learn"],
    "devops": ["AWS", "GCP", "Docker", "Kubernetes", "CI-CD", "Terraform"],
-   "mice": ["Redis", "RabitMQ", "Linux", "Postman", "Nginx", "Shell"]
+   "mice": ["Redis", "RabbitMQ", "Linux", "Postman", "Nginx", "Shell"]
 }
 ```
 
