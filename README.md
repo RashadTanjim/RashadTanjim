@@ -15,7 +15,7 @@
 > Former Graduate Teaching Assistant, North South University, Dhaka, Bangladesh. <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed Systems.
 
-Howdy, This is Rashad Tanjim. I am an engineer with 3+ years of experience in the field of developing & architecting apps and websites. I have completed my Bachelor in Computer Science & Engineering from North South University (NSU). My major studying field was Machine Learning and Data Science and my minor was in Software Engineering & Computer Networks.
+Howdy, This is Rashad Tanjim. I am an engineer with 3.5+ years of experience in the field of developing & architecting apps and websites. I have completed my Bachelor in Computer Science & Engineering from North South University (NSU). My major studying field was Machine Learning and Data Science and my minor was in Software Engineering & Computer Networks.
 
 Learning things like developing apps, architecting solutions, and creating projects on different stacks is a habit. For each & every project of my work, I'm trying to learn new tech topics & develop related stuff which is helping me to enrich my knowledge in this area.
 
