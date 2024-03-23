@@ -15,11 +15,11 @@
 > Former Graduate Teaching Assistant, North South University, Dhaka, Bangladesh. <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed Systems.
 
-Howdy, This is Rashad Tanjim. I am an engineer with 3.5+ years of experience in the field of developing & architecting apps and websites. I have completed my Bachelor in Computer Science & Engineering from North South University (NSU). My major studying field was Machine Learning and Data Science and my minor was in Software Engineering & Computer Networks.
+Howdy, This is Rashad Tanjim. I am an engineer with 4 years of experience in developing & architecting enterprise-level solutions. I have completed my Bachelor in Computer Science & Engineering from North South University (NSU). My major studying area was in Machine Learning & Data Science and my minor was in Computer Networks & Software Engineering.
 
-Learning things like developing apps, architecting solutions, and creating projects on different stacks is a habit. For each & every project of my work, I'm trying to learn new tech topics & develop related stuff which is helping me to enrich my knowledge in this area.
+Learning things like developing apps, architecting backend services, and creating projects on different stacks are a habit of mine. For each & every project of my work, I'm trying to learn new tech topics & develop related stuff which is helping me to enrich my knowledge in this sector. 
 
-Currently, I'm working as a Software Engineer at bKash Ltd. where I'm mostly trying to contribute to the Backend Technologies of Core Platform Engineering section. Moreover, I'm researching Machine Learning projects and have already published 3 Conference papers and 1 Journal paper. Thank you.
+Currently, I'm working as a Software Engineer at bKash Ltd. where I mostly contribute to the Backend Technologies of the Core Platform Engineering section. Besides, I'm researching Machine Learning-related projects and have published some impactful Academic Conference and Journal papers. Thank you.
 
 
 ### Tech Stacks, I explored:
