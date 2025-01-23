@@ -26,14 +26,15 @@ Currently, I'm working as a Software Engineer at bKash Ltd. where I mostly contr
 
 ```json
 {
-   "languages": ["JavaScript", "GoLang", "Java", "Python", "C++"],
-   "mobile_dev": ["Android Native"],
-   "backend": ["NodeJS", "SpringBoot"],
+   "languages": ["Java", "JavaScript", "Golang", "C++", "Python"],
+   "mobile_dev": ["Android Native (Professional Level)", "Flutter"],
+   "backend": ["SpringBoot", "NodeJS", "SOAP", "Ajax", "JWT", "ORM", "Distributed Systems"],
    "frontend": ["Angular", "Material UI", "Bootstrap"],
-   "database": ["MySQL", "Firebase", "MongoDB", "Oracle", "Cassandra"],
-   "ai_framework": ["Keras", "PyTorch", "Scikit-learn"],
-   "devops": ["AWS", "GCP", "Docker", "Kubernetes", "CI-CD", "Terraform"],
-   "mice": ["Redis", "RabbitMQ", "Linux", "Postman", "Nginx", "Shell"]
+   "database": ["MySQL", "Firebase", "SQLite", "Cassandra", "Oracle", "Elasticsearch"],
+   "ai_framework": ["Keras-Tensorflow", "PyTorch", "Scikit-learn", "Weka"],
+   "devops": ["AWS", "GCP", "Private Cloud", "Docker", "Kubernetes", "Jenkins", "Ansible", "F5", "Helm", "Terraform"],
+   "sqa_workflow": ["Git", "Jira", "Selenium", "Postman", "Mokito"],
+   "mice": ["Angular", "VM", "Linux", "Unix", "VAPT", "MVC & MVVM", "Redis", "RabbitMQ", "Kafka", "Shell Scripting", "Nginx"]
 }
 ```
 
