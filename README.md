@@ -27,7 +27,7 @@ Currently, I'm working as a Software Engineer at bKash Ltd. where I mostly contr
 ```json
 {
    "languages": ["Java", "JavaScript", "Golang", "C++", "Python"],
-   "mobile_dev": ["Android Native (Professional Level)", "Flutter"],
+   "mobile_dev": ["Android Native (Professional Level)", "Flutter, Kotlin Multiplatform"],
    "backend": ["SpringBoot", "NodeJS", "SOAP", "Ajax", "JWT", "ORM", "Distributed Systems"],
    "frontend": ["Angular", "Material UI", "Bootstrap"],
    "database": ["MySQL", "Firebase", "SQLite", "Cassandra", "Oracle", "Elasticsearch"],
