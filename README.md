@@ -56,7 +56,7 @@ Currently, I'm working as a Software Engineer at bKash Ltd. where I mostly contr
 ### Achievement & Certification:
 <ul>
   <li>
-     <b> Innovative Project Award for Integrated Disbursement Solution (IDS) development @ bKash Ltd.
+     <b> Innovative Project Award 2023 </b> for developing Integrated Disbursement Solution (IDS) @ bKash Ltd.
    </li>
    <li>
      <b>2nd Runners up @ </b> Hackathon - Hack_NSU 2019 @ North South University
