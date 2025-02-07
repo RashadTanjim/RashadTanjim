@@ -77,7 +77,7 @@ Currently, I'm working as a Software Engineer at bKash Ltd. where I mostly contr
 
 ### Recent Updates & Hobbies:
 - I'm researching on Deep learning.
-- Hobbies: Travelling, Book Collection, Nature Photography 
+- Hobbies: Love Travelling, Playing Piano, Gardening, Book Collection, Nature Photography
 - Yes! A glass of Coffee and a bottle of Coke gives me concentration on coding
 - techFreak, animeLover, movieBuzz, loveToLearnNewStuffs!
 
