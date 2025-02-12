@@ -10,16 +10,16 @@
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=222244&labelColor=000000&logo=facebook&logoColor=ffffff)](https://www.facebook.com/arnobtanjim)
 [![Blog](https://img.shields.io/badge/%20-Blog-black?color=222244&labelColor=000000&logo=blogger&logoColor=ffffff)](https://www.towardsharing.com)
 
-> Software Engineer, Software Development, Research & Engineering Department, Product and Technology Division, bKash Ltd. <br />
+> Software Engineer, Software Development, Research & Engineering, Product and Technology, bKash Ltd. <br />
 > Formar Mobile Application Engineer, Programming Hero. <br />
 > Former Graduate Teaching Assistant, North South University, Dhaka, Bangladesh. <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed Systems.
 
-Howdy, This is Rashad Tanjim. I am an engineer with 4+ years of experience in developing & architecting enterprise-level solutions. I have completed my Bachelor in Computer Science & Engineering from North South University (NSU). My major studying area was in Machine Learning & Data Science and my minor was in Computer Networks & Software Engineering.
+Howdy, This is Rashad Tanjim. I am an engineer with 4+ years of experience developing and architecting enterprise-level solutions. I completed my Bachelor's in Computer Science and engineering from North South University (NSU). My major study area was Machine Learning and Data Science, and my minor was Computer Networks and Software Engineering.
 
-Learning things like developing apps, architecting backend services, and creating projects on different stacks are a habit of mine. For each & every project of my work, I'm trying to learn new tech topics & develop related stuff which is helping me to enrich my knowledge in this sector. 
+Learning things like developing apps, architecting backend services, and creating projects on different stacks is a habit of mine. For each project of my work, I'm trying to learn new tech topics and develop related stuff, which is helping me to enrich my knowledge in this sector. 
 
-Currently, I'm working as a Software Engineer at bKash Ltd. where I mostly contribute to the Backend Technologies of the Core Platform Engineering section. Besides, I'm researching Machine Learning-related projects and have published some impactful Academic Conference and Journal papers. Thank you.
+Currently, I'm working as a Software Engineer at bKash Ltd. where I mostly contribute to the Backend Technologies of the Core Platform Engineering section. Besides, I'm researching Machine Learning-related projects and have published some impactful Academic conferences and Journal papers. Thank you.
 
 
 ### Tech Stacks, I explored:
@@ -34,7 +34,7 @@ Currently, I'm working as a Software Engineer at bKash Ltd. where I mostly contr
    "ai_framework": ["Keras-Tensorflow", "PyTorch", "Scikit-learn", "Weka"],
    "devops": ["AWS", "GCP", "Private Cloud", "Docker", "Kubernetes", "Jenkins", "Ansible", "F5", "Helm", "Terraform"],
    "sqa_workflow": ["Git", "Jira", "Selenium", "Postman", "Mokito"],
-   "mice": ["Angular", "VM", "Linux", "Unix", "VAPT", "MVC & MVVM", "Redis", "RabbitMQ", "Kafka", "Shell Scripting", "Nginx"]
+   "others": ["Angular", "VM", "Linux", "Unix", "VAPT", "MVC & MVVM", "Redis", "RabbitMQ", "Kafka", "Shell Scripting", "Nginx"]
 }
 ```
 
