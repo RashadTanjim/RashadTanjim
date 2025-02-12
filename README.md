@@ -59,7 +59,7 @@ Currently, I'm working as a Software Engineer at bKash Ltd. where I mostly contr
      <b>Innovative Project Award 2023 </b> for developing <b>Integrated Disbursement Solution (IDS)</b> @ bKash Ltd.
    </li>
    <li>
-     <b>2nd Runners up @ </b> Hackathon - Hack_NSU 2019 @ North South University
+     <b>2nd Runners-up @ </b> Hackathon - Hack_NSU 2019 @ North South University
    </li>
   <li>
      <b>Placed among Top 15th position @ </b> NASA Space Apps Challenge organized by BASIS, 2019
