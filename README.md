@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/animation.gif?raw=true" width="250" height="230" />
-
 ## Howdy! This is Tanjim, Welcome to my profile!
+<img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/animation.gif?raw=true" width="200" height="190" />
+
 ### bKash work-place Repo: https://github.com/tanjim-bkash
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rashad-tanjim/)
@@ -9,6 +9,7 @@
 [![Instagram](https://img.shields.io/badge/%20-Instagram-black?color=222244&labelColor=000000&logo=instagram&logoColor=ffffff)](https://www.instagram.com/arnobtanjim/)
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=222244&labelColor=000000&logo=facebook&logoColor=ffffff)](https://www.facebook.com/arnobtanjim)
 [![Blog](https://img.shields.io/badge/%20-Blog-black?color=222244&labelColor=000000&logo=blogger&logoColor=ffffff)](https://www.towardsharing.com)
+<br>
 
 > Software Engineer, Software Development, Research & Engineering, Product and Technology, bKash Ltd. <br />
 > Formar Mobile Application Engineer, Programming Hero. <br />
