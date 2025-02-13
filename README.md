@@ -11,7 +11,7 @@
 [![Blog](https://img.shields.io/badge/%20-Blog-black?color=222244&labelColor=000000&logo=blogger&logoColor=ffffff)](https://www.towardsharing.com)
 <br>
 
-> Software Engineer, Software Development, Research & Engineering, Product and Technology, bKash Ltd. <br />
+> Software Engineer, Research & Engineering, Product and Technology, bKash Ltd. <br />
 > Formar Mobile Application Engineer, Programming Hero. <br />
 > Former Graduate Teaching Assistant, North South University, Dhaka, Bangladesh. <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed Systems.
