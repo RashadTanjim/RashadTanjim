@@ -1,5 +1,5 @@
 ## Howdy! This is Tanjim, Welcome to my profile!
-<img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/animation.gif?raw=true" width="200" height="190" />
+<img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/animation.gif?raw=true" width="220" height="200" />
 
 ### bKash work-place Repo: https://github.com/tanjim-bkash
 
