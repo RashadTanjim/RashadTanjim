@@ -29,8 +29,8 @@ Currently, I'm working as a Software Engineer at bKash Ltd. where I mostly contr
 {
    "languages": ["Java", "JavaScript", "Golang", "C++", "Python"],
    "mobile_dev": ["Android Native (Professional Level)", "Flutter, Kotlin Multiplatform"],
-   "backend": ["SpringBoot", "NodeJS", "SOAP", "Ajax", "JWT", "ORM", "Distributed Systems"],
-   "frontend": ["Angular", "Material UI", "Bootstrap"],
+   "backend": ["SpringBoot", "NodeJS", "SOAP", "JWT", "ORM", "Distributed Systems"],
+   "frontend": ["Angular", "Material UI", "Bootstrap", "Ajex"],
    "database": ["MySQL", "Firebase", "SQLite", "Cassandra", "Oracle", "Elasticsearch"],
    "ai_framework": ["Keras-Tensorflow", "PyTorch", "Scikit-learn", "Weka"],
    "devops": ["AWS", "GCP", "Private Cloud", "Docker", "Kubernetes", "Jenkins", "Ansible", "F5", "Helm", "Terraform"],
