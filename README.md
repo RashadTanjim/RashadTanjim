@@ -17,11 +17,11 @@
 > Former Graduate Teaching Assistant, North South University, Dhaka, Bangladesh. <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed Systems.
 
-Howdy! I'm Tanjim, an experienced and results-driven Software Engineer with expertise in architecting and developing enterprise-level distributed systems at scale. With a strong foundation in backend technologies, cloud computing, and mobile application development, I specialize in building resilient, high-performance solutions that drive business growth.
+Howdy! I'm Tanjim, a results-driven Software Engineer and Researcher with a proven track record of architecting and developing large-scale distributed systems that power mission-critical services. My expertise spans backend technologies, cloud computing, and mobile application development, with a strong focus on building resilient, high-performance solutions that drive business growth and scalability.
 
-I hold a Bachelor’s degree in Computer Science & Engineering from North South University (NSU), with a focus on Machine Learning & Data Science and a minor in Computer Networks & Software Engineering. Beyond development, I am actively engaged in researching cutting-edge Machine Learning applications and have published impactful academic papers in renowned international conferences and journals.
+I hold a Bachelor’s degree in Computer Science & Engineering from North South University (NSU), specializing in Artificial intelligence with a minor in Computer Networks & Software Engineering. Beyond software development, I am actively engaged in researching cutting-edge Machine Learning applications and have published impactful academic papers in renowned international conferences and journals.
 
-Currently, I am contributing at bKash Ltd., focusing on backend technologies within the Research & Engineering section. I thrive on solving complex engineering challenges, optimizing mission-critical services, and architecting scalable, efficient systems.
+Currently, I am driving backend innovation at bKash Ltd. within the Research & Engineering division, where I tackle complex engineering challenges, optimize mission-critical services, and architect scalable, efficient systems. Passionate about technical leadership, mentorship, and strategic roadmap planning, I thrive in fast-paced environments that demand innovation, problem-solving, and engineering excellence.
 
 
 ### Tech Stacks, I explored:
