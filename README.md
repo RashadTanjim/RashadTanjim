@@ -17,11 +17,11 @@
 > Former Graduate Teaching Assistant, North South University, Dhaka, Bangladesh. <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed Systems.
 
-Howdy, This is Rashad Tanjim. I am an engineer with 4+ years of experience developing and architecting enterprise-level solutions. I completed my Bachelor's in Computer Science and engineering from North South University (NSU). My major study area was Machine Learning and Data Science, and my minor was Computer Networks and Software Engineering.
+Howdy! I'm Tanjim, an experienced and results-driven Software Engineer with expertise in architecting and developing enterprise-level distributed systems at scale. With a strong foundation in backend technologies, cloud computing, and mobile application development, I specialize in building resilient, high-performance solutions that drive business growth.
 
-Learning things like developing apps, architecting backend services, and creating projects on different stacks is a habit of mine. For each project of my work, I'm trying to learn new tech topics and develop related stuff, which is helping me to enrich my knowledge in this sector. 
+I hold a Bachelor’s degree in Computer Science & Engineering from North South University (NSU), with a focus on Machine Learning & Data Science and a minor in Computer Networks & Software Engineering. Beyond development, I am actively engaged in researching cutting-edge Machine Learning applications and have published impactful academic papers in renowned conferences and journals.
 
-Currently, I'm working as a Software Engineer at bKash Ltd. where I mostly contribute to the Backend Technologies of the Core Platform Engineering section. Besides, I'm researching Machine Learning-related projects and have published some impactful Academic conferences and Journal papers. Thank you.
+Currently, I am contributing at bKash Ltd., focusing on backend technologies within the Research & Engineering section. I thrive on solving complex engineering challenges, optimizing mission-critical services, and architecting scalable, efficient systems.
 
 
 ### Tech Stacks, I explored:
