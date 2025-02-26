@@ -19,7 +19,7 @@
 
 Howdy! I'm Tanjim, an experienced and results-driven Software Engineer with expertise in architecting and developing enterprise-level distributed systems at scale. With a strong foundation in backend technologies, cloud computing, and mobile application development, I specialize in building resilient, high-performance solutions that drive business growth.
 
-I hold a Bachelor’s degree in Computer Science & Engineering from North South University (NSU), with a focus on Machine Learning & Data Science and a minor in Computer Networks & Software Engineering. Beyond development, I am actively engaged in researching cutting-edge Machine Learning applications and have published impactful academic papers in renowned conferences and journals.
+I hold a Bachelor’s degree in Computer Science & Engineering from North South University (NSU), with a focus on Machine Learning & Data Science and a minor in Computer Networks & Software Engineering. Beyond development, I am actively engaged in researching cutting-edge Machine Learning applications and have published impactful academic papers in renowned international conferences and journals.
 
 Currently, I am contributing at bKash Ltd., focusing on backend technologies within the Research & Engineering section. I thrive on solving complex engineering challenges, optimizing mission-critical services, and architecting scalable, efficient systems.
 
