@@ -19,9 +19,9 @@
 
 Howdy! I'm Tanjim, a results-driven Software Engineer and Researcher with a proven track record of architecting and developing large-scale distributed systems that power mission-critical services. My expertise spans backend technologies, cloud computing, and mobile application development, with a strong focus on building resilient, high-performance solutions that drive business growth and scalability.
 
-I hold a Bachelor’s degree in Computer Science & Engineering from North South University (NSU), specializing in Artificial intelligence with a minor in Computer Networks & Software Engineering. Beyond software development, I am actively engaged in researching cutting-edge Machine Learning applications and have published impactful academic papers in renowned international conferences and journals.
+I hold a Bachelor’s degree in Computer Science and engineering from North South University (NSU), specializing in Artificial intelligence with a minor in Computer Networks and Software Engineering. Beyond software development, I am actively engaged in researching cutting-edge machine learning applications and have published impactful academic papers at renowned international conferences and journals.
 
-Currently, I am driving backend innovation at bKash Ltd. within the Research & Engineering division, where I tackle complex engineering challenges, optimize mission-critical services, and architect scalable, efficient systems. Passionate about technical leadership, mentorship, and strategic roadmap planning, I thrive in fast-paced environments that demand innovation, problem-solving, and engineering excellence.
+Currently, I am driving backend innovation at bKash Ltd. within the Research & Engineering section, where I tackle complex engineering challenges, optimize mission-critical services, and architect scalable, efficient systems. Passionate about technical leadership, mentorship, and strategic roadmap planning, I thrive in fast-paced environments that demand innovation, problem-solving, and engineering excellence.
 
 
 ### Tech Stacks, I explored:
