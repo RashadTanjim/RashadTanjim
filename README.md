@@ -1,7 +1,7 @@
-## Howdy! This is Tanjim, Welcome to my profile!
+## Howdy! This is Tanjim. Welcome to my profile!
 <img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/animation.gif?raw=true" width="220" height="200" />
 
-### GitHub (Workplace Contributions – bKash Ltd.): https://github.com/tanjim-bkash
+### Workplace Contributions – bKash Ltd.: https://github.com/tanjim-bkash
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rashad-tanjim/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:arnob.tanjim@gmail.com?subject=From%20GitHub&cc=rashad.tanjim@northsouth.edu&body=Howdy!,%20Contacting%20from%20GitHub)
@@ -13,13 +13,13 @@
 <br>
 
 > Software Engineer, Research & Engineering, Product and Technology, bKash Ltd. <br />
-> Formar Mobile Application Engineer, Programming Hero. <br />
+> Former Mobile Application Engineer, Programming Hero. <br />
 > Former Graduate Teaching Assistant, North South University, Dhaka, Bangladesh. <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed Systems.
 
-Howdy! I'm Tanjim, a results-driven Software Engineer and Researcher with a proven track record of architecting and developing large-scale distributed systems that power mission-critical services. My expertise spans backend technologies, cloud computing, and mobile application development, with a strong focus on building resilient, high-performance solutions that drive business growth and scalability.
+Howdy! I'm Tanjim, a results-driven Software Engineer and Researcher with a proven track record of architecting and developing large-scale distributed systems that power mission-critical services. My expertise spans backend technologies, cloud computing, and mobile application development, strongly focusing on building resilient, high-performance solutions that drive business growth and scalability.
 
-I hold a Bachelor’s degree in Computer Science and engineering from North South University (NSU), specializing in Artificial intelligence with a minor in Computer Networks and Software Engineering. Beyond software development, I am actively engaged in researching cutting-edge machine learning applications and have published impactful academic papers at renowned international conferences and journals.
+I hold a Bachelor’s degree in Computer Science and Engineering from North South University (NSU), specializing in Artificial Intelligence with a minor in Computer Networks and Software Engineering. Beyond software development, I am actively researching cutting-edge machine learning applications and have published impactful academic papers at renowned international conferences and journals.
 
 Currently, I am driving backend innovation at bKash Ltd. within the Research & Engineering section, where I tackle complex engineering challenges, optimize mission-critical services, and architect scalable, efficient systems. Passionate about technical leadership, mentorship, and strategic roadmap planning, I thrive in fast-paced environments that demand innovation, problem-solving, and engineering excellence.
 
@@ -31,7 +31,7 @@ Currently, I am driving backend innovation at bKash Ltd. within the Research & E
    "languages": ["Java", "JavaScript", "Golang", "C++", "Python"],
    "mobile_dev": ["Android Native (Professional Level)", "Flutter, Kotlin Multiplatform"],
    "backend": ["SpringBoot", "NodeJS", "SOAP", "JWT", "ORM", "Distributed Systems"],
-   "frontend": ["Angular", "Material UI", "Bootstrap", "Ajex"],
+   "frontend": ["Angular", "Material UI", "Bootstrap", "Ajax"],
    "database": ["MySQL", "Firebase", "SQLite", "Cassandra", "Oracle", "Elasticsearch"],
    "ai_framework": ["Keras-Tensorflow", "PyTorch", "Scikit-learn", "Weka"],
    "devops": ["AWS", "GCP", "Private Cloud", "Docker", "Kubernetes", "Jenkins", "Ansible", "F5", "Helm", "Terraform"],
