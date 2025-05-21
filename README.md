@@ -12,7 +12,7 @@
 [![LeetCode](https://img.shields.io/badge/%20-LeetCode-black?color=222244&labelColor=000000&logo=leetcode&logoColor=f5f7fe)](https://leetcode.com/u/rashadtanjim/)
 <br>
 
-> Software Engineer, Research & Engineering, Product and Technology, bKash Ltd. <br />
+> Senior Software Engineer, Software Development, Product and Technology, bKash Ltd. <br />
 > Former Mobile Application Engineer, Programming Hero. <br />
 > Former Graduate Teaching Assistant, North South University, Dhaka, Bangladesh. <br />
 > Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed Systems.
