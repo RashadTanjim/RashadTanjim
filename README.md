@@ -15,7 +15,7 @@
 > Senior Software Engineer, Software Development, Product and Technology, bKash Ltd. <br />
 > Former Mobile Application Engineer, Programming Hero. <br />
 > Former Graduate Teaching Assistant, North South University, Dhaka, Bangladesh. <br />
-> Interested fields: Machine Learning, Software Engineering, Cloud Computing & Distributed Systems.
+> Interested fields: Machine Learning, Backend Engineering, Cloud Computing & Distributed Systems.
 
 Howdy! I'm Tanjim, a results-driven Software Engineer and Researcher with a proven track record of architecting and developing large-scale distributed systems that power mission-critical services. My expertise spans backend technologies, cloud computing, and mobile application development, strongly focusing on building resilient, high-performance solutions that drive business growth and scalability.
 
