@@ -24,64 +24,68 @@ I hold a Bachelor’s degree in Computer Science and Engineering from North Sout
 Currently, I am driving backend innovation at bKash Ltd. within the Research & Engineering section, where I tackle complex engineering challenges, optimize mission-critical services, and architect scalable, efficient systems. Passionate about technical leadership, mentorship, and strategic roadmap planning, I thrive in fast-paced environments that demand innovation, problem-solving, and engineering excellence.
 
 
-### Tech Stacks, I explored:
+
+### Tech Stack & Tooling:
 
 ```json
 {
-   "languages": ["Java", "JavaScript", "Golang", "C++", "Python"],
-   "mobile_dev": ["Android Native (Professional Level)", "Flutter, Kotlin Multiplatform"],
-   "backend": ["SpringBoot", "NodeJS", "SOAP", "JWT", "ORM", "Distributed Systems"],
-   "frontend": ["Angular", "Material UI", "Bootstrap", "Ajax"],
-   "database": ["MySQL", "Firebase", "SQLite", "Cassandra", "Oracle", "Elasticsearch"],
-   "ai_framework": ["Keras-Tensorflow", "PyTorch", "Scikit-learn", "Weka"],
-   "devops": ["AWS", "GCP", "Private Cloud", "Docker", "Kubernetes", "Jenkins", "Ansible", "F5", "Helm", "Terraform"],
-   "sqa_workflow": ["Git", "Jira", "Selenium", "Postman", "Mokito"],
-   "others": ["Angular", "VM", "Linux", "Unix", "VAPT", "MVC & MVVM", "Redis", "RabbitMQ", "Kafka", "Shell Scripting", "Nginx"]
+  "languages": ["Java", "JavaScript", "Golang", "C++", "Python"],
+  "backend": ["SpringBoot", "NodeJS", "SOAP", "JWT", "Distributed Systems"],
+  "frontend": ["Angular", "Material UI", "Bootstrap", "Ajax"],
+  "mobile_dev": ["Android Native (Expert)", "Kotlin Multiplatform", "Flutter"],
+  "database": ["MySQL", "Cassandra", "SQLite", "Oracle", "Elasticsearch", "Firebase"],
+  "cloud_devops": ["AWS", "GCP", "Docker", "Kubernetes", "Terraform", "Ansible", "Helm", "F5", "Jenkins"],
+  "ai_tools": ["PyTorch", "TensorFlow", "Scikit-learn", "Weka"],
+  "qa_tools": ["Git", "Jira", "Selenium", "Postman", "Mockito"],
+  "others": ["Redis", "Kafka", "RabbitMQ", "VAPT", "Linux", "Nginx", "Shell Scripting"]
 }
-```
+````
 
-### Research and Publications:
-<ul><li>
-     <b>Published 1 Journal Paper on Computer Vision @ </b> Inderscience Publishers
-   </li>  
-   <li>
-     <b>Published 3 Conference Papers on Machine Learning @ </b> IEEE Intelligence System & ACM ICCCM
-   </li>
-   <li>
-     <b> ResearchGate: https://www.researchgate.net/profile/Md-Tanjim
-   </li>  
-    <li>
-     <b> Google Scholar: https://scholar.google.com/citations?user=MF_szpwAAAAJ&hl
-   </li>
-   </ul>
-   
-### Achievement & Certification:
-<ul>
-  <li>
-     <b>Innovative Project Award 2023 </b> for developing <b>Integrated Disbursement Solution (IDS)</b> @ bKash Ltd.
-   </li>
-   <li>
-     <b>2nd Runners-up @ </b> Hackathon - Hack_NSU 2019 @ North South University
-   </li>
-  <li>
-     <b>Placed among Top 15th position @ </b> NASA Space Apps Challenge organized by BASIS, 2019
-   </li> 
-   <li>
-     <b>Certified Courses @ Coursera: </b> Deep_Learning.ai, Kubernetes Engine, ML, AWS
-   </li>
-   <li>
-     <b>Certified Courses @ Edx: </b> Intro to Japanese Language, Software QA Analysis   
-   </li>
-   <li>
-     <b>Certified Courses @ Udemy:</b> React Native, Illustrator, Pytorch, MERN Stack.
-   </li>
-</ul>
 
-### Recent Updates & Hobbies:
-- I'm researching on Deep learning.
-- Hobbies: Love Travelling, Playing Piano, Gardening, Book Collection, Nature Photography
-- Yes! A glass of Coffee and a bottle of Coke gives me concentration on coding
-- techFreak, animeLover, movieBuzz, loveToLearnNewStuffs!
+
+### Notable Projects:
+
+* **SMSC Gateway Notification Platform** – Scaled to 4K RPS using Kafka, Kannel, Redis, Angular, and SpringBoot, replacing 3rd-party dependencies and saving licensing costs.
+* **Bulk Disbursement Engine** – Enabled notable efficiency gain for B2B/B2C payroll processing in FinTech.
+* **Real-time Conversational AI Chatbot** – NLP-based bot using Trie + BERT for Bengali and multilingual support (PyTorch, TensorFlow).
+* **Interactive Photo Gallery (MVVM)** – Open-source Android App with Clean Architecture, Graph algorithms, and CI/CD automation.
+* **Cloud Data Container (AWS)** – Optimized Spring Boot microservice with dynamic programming + BST for scalable object CRUD.
+
+
+### Research & Publications:
+
+* **Lip Reading Bengali Words** – ACM ICAI 2022
+* **Fuzzy Logic on CT-Scan for COVID** – Inderscience Journal 2021
+* **Air Pollution Mining in Dhaka** – IEEE Intelligence Systems 2020
+* **Bangla Handwriting Forensics** – ACM ICCCM 2020
+  📚 [Google Scholar](https://scholar.google.com/citations?user=MF_szpwAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Md-Tanjim)
+
+
+### Mentorship & Contributions:
+
+* Lead code reviews, mentor juniors, and foster engineering culture at bKash.
+* Engineered rover software @ Indian Rover Challenge (IRC 2019).
+* Writes tech blogs at [towardsharing.com](https://www.towardsharing.com)
+* Active contributor to open-source, Stack Overflow, and coding contests:
+  [Codeforces](https://codeforces.com/profile/arnob.tanjim) | [HackerRank](https://www.hackerrank.com/profile/rashadTanjim)
+
+
+### Awards & Certifications:
+
+* **Innovative Project Award 2023** @ bKash Ltd. – *Bulk Disbursement System*
+* **Runner-up @ Hack\_NSU 2019**
+* 🛰**Top 15 @ NASA Space Apps Challenge 2019**
+* **Certified**: CPISI-D, AWS, Kubernetes, DevOps, Japanese Language (EdX)
+
+
+### Fun Facts & Hobbies:
+
+* Love Traveling, Playing Piano, Gardening, and Nature Photography
+* Addicted to clean code, coffee, Coke, and continuous learning
+* Anime lover, Movie buff, and techFreak forever
+
+
+
 
 
 #### "Truth can only be found in one place: the code." ― Robert C. Martin aka Uncle Bob.
