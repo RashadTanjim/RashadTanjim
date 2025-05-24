@@ -52,13 +52,12 @@ Currently, I am driving backend innovation at bKash Ltd. within the Research & E
 * **Cloud Data Container (AWS)** – Optimized Spring Boot microservice with dynamic programming + BST for scalable object CRUD.
 
 
-### Research & Publications:
+### Research & Publications: [Google Scholar](https://scholar.google.com/citations?user=MF_szpwAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Md-Tanjim)
 
 * **Lip Reading Bengali Words** – ACM ICAI 2022
 * **Fuzzy Logic on CT-Scan for COVID** – Inderscience Journal 2021
 * **Air Pollution Mining in Dhaka** – IEEE Intelligence Systems 2020
 * **Bangla Handwriting Forensics** – ACM ICCCM 2020
-  📚 [Google Scholar](https://scholar.google.com/citations?user=MF_szpwAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Md-Tanjim)
 
 
 ### Mentorship & Contributions:
@@ -66,15 +65,14 @@ Currently, I am driving backend innovation at bKash Ltd. within the Research & E
 * Lead code reviews, mentor juniors, and foster engineering culture at bKash.
 * Engineered rover software @ Indian Rover Challenge (IRC 2019).
 * Writes tech blogs at [towardsharing.com](https://www.towardsharing.com)
-* Active contributor to open-source, Stack Overflow, and coding contests:
-  [Codeforces](https://codeforces.com/profile/arnob.tanjim) | [HackerRank](https://www.hackerrank.com/profile/rashadTanjim)
+* Active contributor to open-source, Stack Overflow, and coding contests: Leetcode, Codeforces, HackerRank
 
 
 ### Awards & Certifications:
 
 * **Innovative Project Award 2023** @ bKash Ltd. – *Bulk Disbursement System*
 * **Runner-up @ Hack\_NSU 2019**
-* 🛰**Top 15 @ NASA Space Apps Challenge 2019**
+* **Top 15 @ NASA Space Apps Challenge 2019**
 * **Certified**: CPISI-D, AWS, Kubernetes, DevOps, Japanese Language (EdX)
 
 
