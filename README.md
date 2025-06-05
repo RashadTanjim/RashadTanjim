@@ -36,7 +36,7 @@ Currently, I am driving backend innovation at bKash Ltd. within the Research & E
   "database": ["MySQL", "Cassandra", "SQLite", "Oracle", "Elasticsearch", "Firebase"],
   "cloud_devops": ["AWS", "GCP", "Docker", "Kubernetes", "Terraform", "Ansible", "Helm", "F5", "Jenkins"],
   "ai_tools": ["PyTorch", "TensorFlow", "Scikit-learn", "Weka"],
-  "qa_tools": ["Git", "Jira", "Selenium", "Postman", "Mockito"],
+  "qa_tools": ["Git", "JUnit", "Selenium", "Postman", "Mockito"],
   "others": ["Redis", "Kafka", "RabbitMQ", "VAPT", "Linux", "Nginx", "Shell Scripting"]
 }
 ````
