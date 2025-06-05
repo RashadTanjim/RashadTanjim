@@ -1,7 +1,7 @@
 ## Howdy! This is Tanjim. Welcome to my profile!
-<img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/animation.gif?raw=true" width="220" height="200" />
+#### Workplace Contributions – bKash Ltd.: https://github.com/tanjim-bkash
+<img align="right" alt="GIF" src="https://github.com/RashadTanjim/RashadTanjim/blob/master/animation.gif?raw=true" width="180" height="180" />
 
-### Workplace Contributions – bKash Ltd.: https://github.com/tanjim-bkash
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rashad-tanjim/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:arnob.tanjim@gmail.com?subject=From%20GitHub&cc=rashad.tanjim@northsouth.edu&body=Howdy!,%20Contacting%20from%20GitHub)
