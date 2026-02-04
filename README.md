@@ -29,15 +29,16 @@ Currently, I am driving backend innovation at bKash Ltd. within the Research & E
 
 ```json
 {
-  "languages": ["Java", "JavaScript", "Golang", "C++", "Python"],
-  "backend": ["SpringBoot", "NodeJS", "SOAP", "JWT", "Distributed Systems"],
-  "frontend": ["Angular", "Material UI", "Bootstrap", "Ajax"],
-  "mobile_dev": ["Android Native (Expert)", "Kotlin Multiplatform", "Flutter"],
-  "database": ["MySQL", "Cassandra", "SQLite", "Oracle", "Elasticsearch", "Firebase"],
+  "languages": ["Java", "Golang", "JavaScript", "Python", "Kotlin", "C++"],
+  "backend": ["SpringBoot", "NodeJS", "Gin", "SOAP", "JWT", "Distributed Systems"],
+  "frontend": ["Angular", "Vue.js", "Material UI", "Bootstrap", "Ajax"],
+  "mobile_dev": ["Android Native", "Kotlin Multiplatform", "Flutter"],
+  "database": ["MySQL", "PostgreSQL", "Cassandra", "Oracle", "Elasticsearch", "DynamoDB", "Firebase"],
   "cloud_devops": ["AWS", "GCP", "Docker", "Kubernetes", "Terraform", "Ansible", "Helm", "F5", "Jenkins"],
   "ai_tools": ["PyTorch", "TensorFlow", "Scikit-learn", "Weka"],
+  "sre_observability": ["Prometheus", "Grafana", "NewRelic", "Rate Limiting", "Circuit Breakers"],
   "qa_tools": ["Git", "JUnit", "Selenium", "Postman", "Mockito"],
-  "others": ["Redis", "Kafka", "RabbitMQ", "VAPT", "Linux", "Nginx", "Shell Scripting"]
+  "others": ["Redis", "Kafka", "RabbitMQ", "Debezium (CDC)", "VAPT", "Linux", "Nginx", "Shell Scripting"]
 }
 ````
 
