@@ -30,7 +30,7 @@ Currently, I am driving backend innovation at bKash Ltd. within the Research & E
 ```json
 {
   "languages": ["Java", "Golang", "JavaScript", "Python", "Kotlin", "C++"],
-  "backend": ["SpringBoot", "NodeJS", "Gin", "SOAP", "JWT", "Distributed Systems"],
+  "backend": ["SpringBoot", "Gin", "NodeJS", "SOAP", "JWT", "Distributed Systems"],
   "frontend": ["Angular", "Vue.js", "Material UI", "Bootstrap", "Ajax"],
   "mobile_dev": ["Android Native", "Kotlin Multiplatform", "Flutter"],
   "database": ["MySQL", "PostgreSQL", "Cassandra", "Oracle", "Elasticsearch", "DynamoDB", "Firebase"],
