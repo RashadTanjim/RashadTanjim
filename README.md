@@ -37,22 +37,13 @@ I hold a Bachelor’s degree in Computer Science and Engineering from North Sout
 ```
 
 
-### Project Work
+### Notable Projects
 
-* **Enterprise Microservice System - Go**
-  * Production-grade microservice architecture with JWT auth, PostgreSQL + Redis, rate limiting, circuit breaker, Prometheus metrics, Nginx gateway, Swagger docs, and Dockerized deployment.
-
-* **Notification Platform - SMSC Gateway for bKash Limited**
-  * Built a loosely coupled notification platform for SMS, Email, and Push. Used Kafka-based scheduling and prioritization, Kubernetes deployment, and CI/CD on GKE to replace third-party licensing dependency.
-
-* **Cloud Data Container - Spring Boot with AWS**
-  * Architected a microservice-based CRUD system with BST-backed retrieval and dynamic programming-based memory optimization.
-
-* **Interactive Photo Gallery MVVM - Android App**
-  * Open-source Android app using MVVM and Clean Architecture with OpenAPI integration, graph traversal for dynamic rendering, and release automation via Fastlane + GitHub Actions.
-
-* **Real-Time Conversational AI Bot**
-  * Built multilingual (including Bengali) deep learning chatbot with Trie/HashMap optimization and BERT-based semantic analysis, reducing token lookup time by 45%.
+* **Enterprise Microservice System with Golang** - Production-grade microservice architecture with JWT auth, PostgreSQL + Redis, rate limiting, circuit breaker, Prometheus metrics, Nginx gateway, Swagger docs, and Dockerized deployment.
+* **Notification Platform - SMSC Gateway for bKash Limited** - Built a loosely coupled notification platform using **Java Springboot** for SMS, Email, and Push. Used Kafka-based scheduling and prioritization, Kubernetes deployment, and CI/CD on GKE to replace third-party licensing dependency.
+* **Cloud Data Container - Spring Boot with AWS** - Architected a microservice-based CRUD system with BST-backed retrieval and dynamic programming-based memory optimization.
+* **Interactive Photo Gallery MVVM - Android App** - Open-source Android app using MVVM and Clean Architecture with OpenAPI integration, graph traversal for dynamic rendering, and release automation via Fastlane + GitHub Actions.
+* **Real-Time Conversational AI Bot** - Built multilingual (including Bengali) deep learning chatbot with Trie/HashMap optimization and BERT-based semantic analysis, reducing token lookup time by 45%.
 
 
 ### Publications: [Google Scholar](https://scholar.google.com/citations?user=MF_szpwAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Md-Tanjim)
