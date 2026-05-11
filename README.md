@@ -72,7 +72,7 @@ I hold a Bachelor’s degree in Computer Science and Engineering from North Sout
 
 ### Fun Facts & Hobbies:
 * Love Traveling, Playing Piano, Gardening, and Nature Photography
-* Addicted to clean code, coffee, Coke, and continuous learning
+* Addicted to clean code, coffee, coke, and continuous learning
 * Anime lover, Movie buff, and techFreak forever
 
 #### "Truth can only be found in one place: the code." - Robert C. Martin (Uncle Bob)
